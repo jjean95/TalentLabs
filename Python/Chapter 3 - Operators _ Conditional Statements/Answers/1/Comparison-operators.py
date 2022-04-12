@@ -10,7 +10,7 @@ mentorCount = 9
 moreStudentsThanMentors = studentCount > mentorCount
 
 roomMaxCapacity = 25
-enoughSpaceInRoom = roomMaxCapacity == studentCount + mentorCount
+enoughSpaceInRoom = roomMaxCapacity >= studentCount + mentorCount
 
 personA = "Daniel"
 personB = "Irina"
