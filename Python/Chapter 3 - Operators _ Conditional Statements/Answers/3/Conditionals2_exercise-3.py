@@ -16,7 +16,7 @@ if grade1 >= 80:
     print(str(grade1) + ": A")
 elif (grade1 < 80) and (grade1 > 60):
     print(str(grade1) + ": B")
-elif (grade1 < 60) and (grade1 > 50):
+elif (grade1 <= 60) and (grade1 >= 50):
     print(str(grade1) + ": C")
 else:
     print(str(grade1) + ": F")
