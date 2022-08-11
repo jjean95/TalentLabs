@@ -135,6 +135,7 @@ while True:
             continue
         if validateMove(move) == False:
             print('Please choose another position')  
+            continue
 ## Update the board
         else:
             markBoard(move,currentTurnPlayer)
