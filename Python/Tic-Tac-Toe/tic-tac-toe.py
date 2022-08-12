@@ -66,28 +66,13 @@ winCombinations = [
 # TODO: implement a logic to check if the previous winner just win
 # This method should return with True or False
 def checkWin(player):
-    x_list = []
+    mark_list = []
     for k,v in board.items():
         if v == player:
-            x_list.append(k)
-    if x_list[:3] in winCombinations:
-        return True
-    elif x_list[1:4] in winCombinations:
-        return True
-    elif x_list[2:5] in winCombinations:
-        return True
-    elif x_list[3:6] in winCombinations:
-        return True
-    elif x_list[4:7] in winCombinations:
-        return True
-    elif x_list[5:8] in winCombinations:
-        return True
-    elif x_list[6:9] in winCombinations:
-        return True
-    elif x_list[-3:] in winCombinations:
-        return True
-    else:
-        return False
+            mark_list.append(k)
+    for x in winCombinations:
+      if all(y in mark_list for y in x):
+        return True   
 
 # TODO: implement a function to check if the game board is already full
 # For tic-tac-toe, tie bascially means the whole board is already occupied
