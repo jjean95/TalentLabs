@@ -126,20 +126,20 @@ while True:
             markBoard(move,currentTurnPlayer)
             printBoard()        
 ## Check win or tie situation   
-            if checkFull() == False:
-                if checkWin(currentTurnPlayer) == True:
-                    print("\nGame Over!\n")
-                    print(currentTurnPlayer + " player won\n") 
-                    gameEnded = True
-            else:
-                if checkWin(currentTurnPlayer) == True:
-                    print("\nGame Over!\n")
-                    print(currentTurnPlayer + " player won\n")
-                    gameEnded = True
-                else:  
-                    print("\nGame Over!\n")
-                    print("It's a tie\n")
-                    gameEnded = True
+        if checkFull() == True:
+          if checkWin(currentTurnPlayer) == True:
+             print("\nGame Over!\n")
+             print(currentTurnPlayer + " player won\n")
+             gameEnded = True
+          else:
+             print("\nGame Over!\n")
+             print("It's a tie\n")
+             gameEnded = True 
+        else:
+           if checkWin(currentTurnPlayer) == True:
+              print("\nGame Over!\n")
+              print(currentTurnPlayer + " player won\n")
+              gameEnded = True    
 ## Switch user
         if currentTurnPlayer == 'X':
             currentTurnPlayer = 'O'
