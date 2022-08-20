@@ -1,5 +1,5 @@
 # TalentLabs
-Assignments by TalentLabs (Data Analyst path)
+Assignments by TalentLabs on Foundation Certificate in Data Analytic pathway.
 
 | No.  | Name  | Programming Language | Code  |
 | ---  | ----: | ----: | ---:  |
