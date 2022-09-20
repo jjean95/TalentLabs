@@ -1,6 +1,12 @@
 # TalentLabs
 This is the repo for assignments by TalentLabs -- Foundation Certificate in Data Analytic pathway.
 
+## Skills learned:
+1. Fundamentals of Python
+2. Fundamentals of SQL
+3. Data Analytics in nutshell
+
+## Table of contents:
 | No.  | Name  | Programming Language/Technical skills | Code  |
 | ---  | ----: | ----: | ---:  |
 | 1 | Tic-tac-toe | Python | [Code](https://github.com/jjean95/TalentLabs/tree/main/Python/Tic-Tac-Toe)|  
