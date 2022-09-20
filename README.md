@@ -16,7 +16,21 @@ This is the repo for assignments by TalentLabs -- Foundation Certificate in Data
 | 4 | Google Universal analytics | Spreadsheet / Tableau | [Code](https://public.tableau.com/views/GoogleAnalyticsUS2021/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)|  
 
 ### Tic-tac-toe
-Tic-tac-toe
+Building a tic-tac-toe game in Visual Studio Code.
+
+Part 1: Game Functions
+* markBoard(position, mark) - fill the box with either mark X or O
+* printBoard() - print the game board 
+* validateMove(position) - validates player input
+* checkWin - check if the player win
+* checkFull - check if the board is full
+* winCombinations - a list of 8 winning combinations
+
+Part 2: Game Play
+* consolidate the functions from part 1
+* testing the game scenarios
+* includes function to restart the game
+
 ### Titanic Dataset
 
 ### eCommerce Database Design
