@@ -15,6 +15,15 @@ This is the repo for assignments by TalentLabs -- Foundation Certificate in Data
 | 3 | eCommerce Database design | SQL | [Code](https://)|  
 | 4 | Google Universal analytics | Spreadsheet / Tableau | [Code](https://public.tableau.com/views/GoogleAnalyticsUS2021/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)|  
 
+### Tic-tac-toe
+Tic-tac-toe
+### Titanic Dataset
+
+### eCommerce Database Design
+
+### Google Universal analytics
+
+
 ## Certified Associate in Business Analytics
 ### Skills learned:
 1. Data collection
