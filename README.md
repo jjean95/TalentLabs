@@ -18,7 +18,7 @@ This is the repo for assignments by TalentLabs --
 | 4 | Google Universal analytics | Spreadsheet / Tableau | [Code](https://public.tableau.com/views/GoogleAnalyticsUS2021/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)|  
 
 ### Tic-tac-toe
-Building a tic-tac-toe game in Visual Studio Code.
+Building a tic-tac-toe game in Python using Visual Studio Code.
 
 Part 1: Game Functions
 * markBoard(position, mark) - fill the box with either mark X or O
@@ -34,11 +34,32 @@ Part 2: Game Play
 * includes function to restart the game
 
 ### Titanic Dataset
+Exploring Titanic Dataset using SQL
+
+Data exploration framework:
+1. Understanding the business context
+2. Understanding the technical context
+3. Understanding the Tables and Fields
+4. Free Exploration 
 
 ### eCommerce Database Design
+Design a database for the eComm platform
+
+Steps:
+1. Think about all the entities involved
+2. Think about the relationship between the entities
+3. Draw the ER Diagram
+4. Building DB in SQLite
 
 ### Google Universal analytics
+Exploring the data from the Google Universal Analytics Demo Account.
 
+Steps:
+1. Data collection
+2. Data cleaning
+3. Data wrangling
+4. Data Analysis
+5. Data Visualization
 
 ## Certified Associate in Business Analytics
 ### Skills learned:
