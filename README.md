@@ -1,5 +1,7 @@
 # TalentLabs
-This is the repo for assignments by TalentLabs -- Foundation Certificate in Data Analytics pathway & Certified Associate in Business Analytics pathway.
+This is the repo for assignments by TalentLabs -- 
+* Foundation Certificate in Data Analytics pathway 
+* Certified Associate in Business Analytics pathway
 
 ## Foundation Certificate in Data Analytics
 ### Skills learned:
