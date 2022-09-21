@@ -71,5 +71,6 @@ Steps:
 ## Table of contents:
 | No.  | Name  | Programming Language/Technical skills | Code  |
 | ---  | ----: | ----: | ---:  |
-
-
+| 1 | Data Analytics Plan for Game Company | Data collection | [Code]()|  
+| 2 | Data Wrangling Project: Sharks Attack Dataset | Data cleaning & Wrangling - Python & SQL | [Code]()|  
+| 3 |  |  | [Code]()|  
