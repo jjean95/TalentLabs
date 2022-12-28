@@ -63,14 +63,11 @@ Steps:
 5. Data Visualization
 
 ### Extra credit - Credit risk
-Exploring the data from the Google Universal Analytics Demo Account.
+Reviewing a list of loan applications
 
-Steps:
-1. Data collection
-2. Data cleaning
-3. Data wrangling
-4. Data Analysis
-5. Data Visualization
+2 tables:
+- application - loan applications
+- bureau - other loans of the applicants from other lenders
 
 ## Certified Associate in Business Analytics
 ### Skills learned:
