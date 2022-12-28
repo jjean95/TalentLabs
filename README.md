@@ -16,7 +16,7 @@ This is the repo for assignments by TalentLabs --
 | 2 | Titanic Dataset | SQL | [Code](https://github.com/jjean95/TalentLabs/blob/main/SQL/Titanic/sql_titanic_in_py.ipynb)|  
 | 3 | eCommerce Database design | SQL | [Code](https://github.com/jjean95/TalentLabs/blob/main/SQL/eCommerce/ERD.pdf)|  
 | 4 | Google Universal analytics | Spreadsheet / Tableau | [Code](https://public.tableau.com/views/GoogleAnalyticsUS2021/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)|  
-| 5 | Extra credit- Credit Fraud | SQL | [Code] |
+| 5 | *Extra credit* - Credit Risk | SQL | [Code] |
 
 ### Tic-tac-toe
 Building a tic-tac-toe game in Python using Visual Studio Code.
